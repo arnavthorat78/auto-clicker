@@ -9,10 +9,8 @@
   "author": "Arnav Thorat",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^5.3.0",
-    "module": "^1.2.5",
+    "chalk": "^4.1.2",
     "node-global-key-listener": "^0.1.1",
     "robotjs": "^0.6.0"
-  },
-  "type": "module"
+  }
 }

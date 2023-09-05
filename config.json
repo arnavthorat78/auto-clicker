@@ -1,8 +1,7 @@
 {
-  "startKey": "s",
-  "stopKey": "t",
-  "pauseKey": "p",
-  "mouseButton": "right",
-  "isCtrlActive": false,
-  "millisecondsBetweenEachClick": 10
+  "startKey": "F8",
+  "stopKey": "F9",
+  "pauseKey": "F10",
+  "mouseButton": "left",
+  "millisecondsBetweenEachClick": 650
 }
