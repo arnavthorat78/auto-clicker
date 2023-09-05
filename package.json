@@ -1,0 +1,18 @@
+{
+  "name": "auto-clicker",
+  "version": "1.0.0",
+  "description": "Automatically click for automated processes, or just for going AFK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnav Thorat",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "module": "^1.2.5",
+    "node-global-key-listener": "^0.1.1",
+    "robotjs": "^0.6.0"
+  },
+  "type": "module"
+}

@@ -1,0 +1,8 @@
+{
+  "startKey": "s",
+  "stopKey": "t",
+  "pauseKey": "p",
+  "mouseButton": "right",
+  "isCtrlActive": false,
+  "millisecondsBetweenEachClick": 10
+}
